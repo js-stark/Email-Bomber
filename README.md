@@ -8,7 +8,11 @@ placed, This program can run in any python compiler and used to send emials.
 
 `              ___   /|  /|   $   ___   __          ___   __  __
               |___  / | / |   $  0___) |  | |\ |\  0___) |__ |__|
-              |___ /  |/  |   $  0___) |__| | \| \ 0___) |__ |  \    
+              |___ /  |/  |   $  0___) |__| | \| \ 0___) |__ |  \  
+ `
+
+
+`               
                               
                                Author:luv 
                                *  * *  *
